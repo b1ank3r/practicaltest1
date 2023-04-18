@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
 
         gradeButton.setOnClickListener {
 
-            gradeButton.isPressed = !gradeButton.isPressed
 
             val score = findViewById<EditText>(R.id.inputScore)
 
