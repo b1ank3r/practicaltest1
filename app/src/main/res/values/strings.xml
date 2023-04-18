@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practical test1</string>
+    <string name="name">Name</string>
+    <string name="course">Course</string>
+    <string name="score">Score</string>
+    <string name="studentName">Student\'s Name</string>
+    <string name="studentScore">Enter Score</string>
+    <string name="grade">Grade</string>
+    <string name="contact">Contact Department of Exam</string>
+    <string name="resultString">The result is %s</string>
+    <string-array name="course_selection">
+        <item>AACS 2034</item>
+        <item>AAMS 2234</item>
+        <item>AMIT 3384</item>
+    </string-array>
+</resources>
